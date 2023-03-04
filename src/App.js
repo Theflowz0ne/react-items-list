@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AddItem from './Components/AddItem';
-import Color from './Components/Color';
+import Color from './Components/Content';
 
 function App() {
     const [items, setItems] = useState(
