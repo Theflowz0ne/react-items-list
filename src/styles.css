@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    width: 35px;
+    height: 35px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+.addForm input {
+    width: 300px;
+    height: 20px;
+}
+.addForm label {
+    font-size: 1.3rem;
+    margin: 0 5px;
+}
